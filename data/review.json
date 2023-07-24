@@ -1,0 +1,44 @@
+[
+    {
+       "id" : 1,
+       "name" : "Arafat Sani",
+      "img": "https://i.ibb.co/x162rJz/1s.jpg",
+      "review": "During that time, the University of Dhaka was the most prestigious and oldest university in Bangladesh, offering undergraduate and postgraduate courses in various fields of study. As a student, you would have been part of a diverse and vibrant community of learners, with access to a wide range of academic and extracurricular activities.",
+      "rating": 4.5
+    },
+    {
+       "id" : 2,
+       "name" : "Akash Islam",
+      "img": "https://i.ibb.co/DwKnC4q/3s.jpg",
+      "review": "I am a student of Dhaka University. I want to say that Dhaka University is the number one University in Bangladesh and many students drem for studying this University every year. Unfortunately, a few numbers get admission because of tough admission exam.",
+      "rating": 5.0
+    },
+    {
+      "id" : 3,
+      "name" : "Hamim Hossain",
+      "img": "https://i.ibb.co/svDcwtW/4s.jpg",
+      "review": "Dhaka university quality of education and faculty and student academic qualification is very good and external aspect is also good I like it very much and completed my student life here and did 75 from here teaching qualification and student education quality is very good",
+      "rating": 4.8
+    },
+    {
+      "id" : 4,
+      "name" : "Samim Isalam",
+      "img": "https://i.ibb.co/3RV9z1G/5s.jpg",
+      "review": "Dhaka University is the best university I have seen. Everything here is done well. Writing is well done here. I like this university very much. I love this university very much. The environment is very beautiful. That’s why I like it very much.",
+      "rating": 3.0
+    },
+    {
+      "id" : 5,
+      "name" : "Sagor Hossain",
+      "img": "https://i.ibb.co/zxLNGgw/8s.jpg",
+      "review": "Dhaka university quality of education and faculty and student academic qualification is very good and external aspect is also good I like it very much and completed my student life here and did 75 from here teaching qualification and student education quality is very good",
+      "rating": 1.5
+    },
+    {
+      "id" : 6,
+      "name" : "Jakariya Hossain",
+      "img": "https://i.ibb.co/3hT375n/2s.jpg",
+      "review": "This is one of the greatest University of Bangladesh. Dhaka University including all best subject have for studying Bangladeshi Boys & Girl. And also foreign People’s have chance to study at this amazing University. I am recommend everyone try to visit this good place. I think everyone will be amazed by this. Thanks",
+      "rating": 4.7
+    }
+  ]

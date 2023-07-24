@@ -1,0 +1,182 @@
+[
+    {
+      "id": 1,
+      "ranking": 1,
+      "image_url": "https://i.ibb.co/txwFKCT/1clg.webp",
+      "college_name": "Dhaka College, Dhaka",
+      "admission_dates": "Fall semester - Applications open from December 1st to February 15th",
+      "events": ["Harmony Fest", "Science and Technology Expo", "Literary Symposium"],
+      "research_history": "Pioneering research in Environmental Sciences and Renewable Energy",
+      "sports": ["Basketball", "Soccer", "Tennis", "Swimming"],
+      "admission_process": "Online application, entrance exam, and interview",
+      "events_details": {
+        "Harmony Fest": "Music, dance, and drama performances by students and renowned artists.",
+        "Science and Technology Expo": "Showcasing innovative projects by students and faculty."
+      },
+      "research_works": "Notable research on sustainable urban development and climate change adaptation.",
+      "sports_categories": ["Intramural", "Intercollegiate"]
+    },
+
+    {
+      "id": 2,
+      "ranking": 2,
+      "image_url": "https://i.ibb.co/KcnHBYk/2clg.jpg",
+      "college_name": "Govt. Titumir College, Dhaka.",
+      "admission_dates": "Spring semester - Applications open from September 1st to November 30th",
+      "events": ["Tech Summit", "Cultural Extravaganza", "Entrepreneurship Week"],
+      "research_history": "Pioneered breakthroughs in Artificial Intelligence and Robotics",
+      "sports": ["Cricket", "Badminton", "Volleyball", "Table Tennis"],
+      "admission_process": "Merit-based selection through academic records and entrance exam scores",
+      "events_details": {
+        "Tech Summit": "Showcasing the latest advancements in technology and research.",
+        "Cultural Extravaganza": "Celebrating diverse cultures through dance, music, and food.",
+        "Entrepreneurship Week": "Promoting entrepreneurial spirit with workshops and seminars."
+      },
+      "research_works": "Leading research in AI applications and autonomous systems.",
+      "sports_categories": ["Intramural", "Intercollegiate"]
+    },
+    {
+        "id": 3,
+        "ranking": 3,
+        "image_url": "https://i.ibb.co/mGbN3LM/3clg.jpg",
+        "college_name": " Govt. Shaheed Suhrawardi College, Dhaka.",
+        "admission_dates": "Summer semester - Applications open from March 1st to May 31st",
+        "events": ["Artistic Expressions", "Literary Week", "Cultural Carnival"],
+        "research_history": "Celebrated for contributions to Fine Arts and Literature",
+        "sports": ["Painting", "Photography", "Creative Writing", "Sculpture"],
+        "admission_process": "Portfolio assessment and personal interview",
+        "events_details": {
+          "Artistic Expressions": "Exhibition of student artwork in various media.",
+          "Literary Week": "Readings, poetry slams, and book discussions.",
+          "Cultural Carnival": "Showcasing diverse cultural traditions through performances and cuisines."
+        },
+        "research_works": "Notable achievements in promoting local art and preserving heritage.",
+        "sports_categories": ["Intramural", "Intercollegiate"]
+      },
+      {
+        "id": 4,
+        "ranking": 4,
+        "image_url": "https://i.ibb.co/J50rbdD/4clg.jpg",
+        "college_name": "Govt. Bangla College, Dhaka.",
+        "admission_dates": "Fall and Spring semesters - Rolling admissions",
+        "events": ["Tech Expo", "Innovation Summit", "Career Fair"],
+        "research_history": "Leading-edge research in Computer Science and Engineering",
+        "sports": ["Esports", "Robotics", "Drone Racing", "Virtual Reality Gaming"],
+        "admission_process": "Online application and entrance exam",
+        "events_details": {
+          "Tech Expo": "Showcasing the latest technological innovations by students and faculty.",
+          "Innovation Summit": "Panel discussions on emerging technologies and startups.",
+          "Career Fair": "Connecting students with potential employers and internships."
+        },
+        "research_works": "Notable contributions to AI, cybersecurity, and software development.",
+        "sports_categories": ["Intramural", "Intercollegiate"]
+      },
+      {
+        "id": 5,
+        "ranking": 5,
+        "image_url": "https://i.ibb.co/hKZzHtX/5clg.jpg",
+        "college_name": "Govt. Music College, Dhaka.",
+        "admission_dates": "Fall and Winter semesters - Rolling admissions",
+        "events": ["Business Conclave", "Leadership Summit", "Startup Fair"],
+        "research_history": "Renowned for research in Business Management and Entrepreneurship",
+        "sports": ["Debate", "Case Study Analysis", "Entrepreneurship Challenge", "Leadership Games"],
+        "admission_process": "Personal interview and statement of purpose",
+        "events_details": {
+          "Business Conclave": "Industry experts share insights and trends in the business world.",
+          "Leadership Summit": "Discussions on leadership development and ethical decision-making.",
+          "Startup Fair": "Showcasing student-led startups and entrepreneurial ventures."
+        },
+        "research_works": "Notable publications on strategic management and sustainable business practices.",
+        "sports_categories": ["Intramural", "Intercollegiate"]
+      },
+      {
+        "id": 6,
+        "ranking": 6,
+        "image_url": "https://i.ibb.co/K5kGtrb/6clg.jpg",
+        "college_name": " Govt. Shaheed Suhrawardi College, Dhaka.",
+        "admission_dates": "Admissions open for Fall intake",
+        "events": ["Medical Symposium", "Healthcare Camp", "Research Showcase"],
+        "research_history": "Contributions to Medical Science and Public Health",
+        "sports": ["Football", "Cricket", "Basketball", "Swimming"],
+        "admission_process": "Entrance exam and interview",
+        "events_details": {
+          "Medical Symposium": "Presentations on medical advancements and breakthroughs.",
+          "Healthcare Camp": "Providing medical services and awareness in underserved areas.",
+          "Research Showcase": "Displaying research projects by medical students and faculty."
+        },
+        "research_works": "Notable studies in oncology, epidemiology, and infectious diseases.",
+        "sports_categories": ["Intramural", "Intercollegiate"]
+      },
+      {
+        "id": 7,
+        "ranking": 7,
+        "image_url": "https://i.ibb.co/5RLLKXy/7clg.jpg",
+        "college_name": " Kabi Nazrul Govt. College, Dhaka.",
+        "admission_dates": "Spring and Summer semesters - Applications open from October 1st to December 31st",
+        "events": ["Marine Exploration Week", "Ocean Conservation Symposium", "Underwater Photography Contest"],
+        "research_history": "Prominent in Marine Biology and Oceanography research",
+        "sports": ["Sailing", "Scuba Diving", "Water Polo", "Surfing"],
+        "admission_process": "Review of academic records and written statement of interest",
+        "events_details": {
+          "Marine Exploration Week": "Hands-on experience in marine research and ecosystem study.",
+          "Ocean Conservation Symposium": "Discussions on ocean preservation and sustainability.",
+          "Underwater Photography Contest": "Showcasing captivating images of marine life and environments."
+        },
+        "research_works": "Notable contributions to marine species discovery and coral reef protection.",
+        "sports_categories": ["Intramural", "Intercollegiate"]
+      },
+      {
+        "id": 8,
+        "ranking": 8,
+        "image_url": "https://i.ibb.co/7Sw6b9X/8clg.jpg",
+        "college_name": "Govt. Science College, Dhaka.",
+        "admission_dates": "Fall and Winter semesters - Rolling admissions",
+        "events": ["Artistic Fusion", "Art Symposium", "Cultural Showcase"],
+        "research_history": "Excellence in Fine Arts and Visual Communications",
+        "sports": ["Painting", "Sculpture", "Photography", "Digital Arts"],
+        "admission_process": "Portfolio review and interview",
+        "events_details": {
+          "Artistic Fusion": "Collaborative art projects involving students from different disciplines.",
+          "Art Symposium": "Discussions on contemporary art trends and artistic expression.",
+          "Cultural Showcase": "Display of diverse cultural performances and creative displays."
+        },
+        "research_works": "Notable exhibitions on modern art, mixed media, and visual storytelling.",
+        "sports_categories": ["Intramural", "Intercollegiate"]
+      },
+      {
+        "id": 9,
+        "ranking": 9,
+        "image_url": "https://i.ibb.co/bBMmLGt/9clg.jpg",
+        "college_name": "Adamjee Cantonment College",
+        "admission_dates": "Fall and Spring semesters - Applications open from July 1st to August 31st",
+        "events": ["Legal Symposium", "Moot Court Competition", "Law Fest"],
+        "research_history": "Renowned for Legal Studies and Jurisprudence research",
+        "sports": ["Debate", "Moot Court", "Client Counseling", "Negotiation"],
+        "admission_process": "Law School Admission Test (LSAT) scores and personal statement",
+        "events_details": {
+          "Legal Symposium": "Discussions on contemporary legal issues and reforms.",
+          "Moot Court Competition": "Mock trial exercises to develop advocacy skills.",
+          "Law Fest": "Celebration of legal fraternity through various events and workshops."
+        },
+        "research_works": "Notable contributions to constitutional law and human rights studies.",
+        "sports_categories": ["Intramural", "Intercollegiate"]
+      },
+      {
+        "id": 10,
+        "ranking": 10,
+        "image_url": "https://i.ibb.co/SQdWgMj/10.jpg",
+        "college_name": "Holy Cross College",
+        "admission_dates": "Fall and Winter semesters - Applications open from April 1st to June 30th",
+        "events": ["Global Business Summit", "Entrepreneurship Bootcamp", "Corporate Leadership Conclave"],
+        "research_history": "Excellence in Business Administration and Management research",
+        "sports": ["Business Case Analysis", "Marketing Challenge", "Financial Analysis", "Strategy Simulation"],
+        "admission_process": "Entrance exam, group discussion, and personal interview",
+        "events_details": {
+          "Global Business Summit": "Insights into international business trends and challenges.",
+          "Entrepreneurship Bootcamp": "Training sessions for aspiring entrepreneurs.",
+          "Corporate Leadership Conclave": "Corporate leaders share their experiences and expertise."
+        },
+        "research_works": "Notable publications on organizational behavior and market analysis.",
+        "sports_categories": ["Intramural", "Intercollegiate"]
+      }   
+  ]
